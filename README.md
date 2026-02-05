@@ -1,1 +1,1 @@
-Ein schneller versuch einer Inventursoftware fuer den Bestand von Getraenken
+Ein schneller Versuch einer Inventursoftware fuer den Bestand von Getraenken
